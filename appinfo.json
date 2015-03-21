@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "wkowalc1@binghamton.edu",
+    "longName": "GobbleVictory",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "GobbleVictory",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "51fd0eb4-4a7d-44e0-aa5f-65f464f2e833",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
